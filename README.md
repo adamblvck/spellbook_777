@@ -2,7 +2,11 @@
 
 ![](media/readme/icon_512.png)
 
+## About
+
 Welcome to SpellBook 777! A simple repository containing markdown and javascript files with brief and deep descriptions of the four elements, planets, and sphere dynamics as used in SpellBook!
+
+The SpellBook app operates on JavaScript, and requires the markdown files in the `/777` folder to be converted into a javascript object. To convert javascript to markdown, have python 3.0 installed and just run `md_to_js.py`.
 
 ## What is 777?
 
