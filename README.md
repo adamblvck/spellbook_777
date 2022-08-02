@@ -24,7 +24,7 @@ The classic four elements are:
 
 ![](media/readme/Four_elements_in_Alchemy.jpg)
 
-But one could also use different concepts and words to represent the four catelementsegories, for example using the four directions:
+But one could also use different concepts and words to represent the four elements, for example using the four directions:
 - East
 - South
 - West
