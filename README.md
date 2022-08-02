@@ -1,5 +1,7 @@
 # SpellBook 777
 
+![](media/readme/icon_512.png)
+
 Welcome to SpellBook 777! A simple repository containing markdown and javascript files with brief and deep descriptions of the four elements, planets, and sphere dynamics as used in SpellBook!
 
 ## What is 777?
@@ -34,7 +36,7 @@ Or, you one could speak of the four quadrants in a cartesian coordinate system:
 - Quadrant 3: X negative and Y negative
 - Quadrant 4: X positive and Y negative
 
-![](media/readme/Four_elements_in_Alchemy.jpg)
+![](media/readme/cartesian.png)
 
 Perhaps even more curiously, the four elements can be represented by the four seasons:
 - Spring
