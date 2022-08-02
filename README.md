@@ -61,6 +61,8 @@ However, the story doesn't end at the four elements! Each of the four elements c
 
 Planetary elements, or simply planets, are two-part combinations of the four elements, for example "air of air" or "water of earth". With 16 of these in total, each one expands on the basic correspondences of the four elements to create a truly rich framework to think about life, and in particular, about western culture.
 
+![]("media/readme/tree_of_life.png")
+
 A seperate SpellBook 777 will be created in due time, in the mean-time you can visit the reference by downloading [the app](https://thespellbook.app) from the appropriate stores.
 
 ## What is SpellBook?
