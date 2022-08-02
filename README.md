@@ -6,7 +6,7 @@ Welcome to SpellBook 777! A simple repository containing markdown and javascript
 
 ## What is 777?
 
-777, usually associated with a lucky number in the gambling business, has different meanings - including that of beings a table of correspondences and hidden links between symbols, meaning, animals, and taxonomic qualia.
+777, usually associated with a lucky number in the gambling business, has different meanings - including that of being a table of correspondences and hidden links between symbols, meaning, animals, and taxonomic qualia.
 
 Partly inspired by `Liber 777` and hermetic orders of the western tradition, SpellBook's 777 is an evergreen reference to the mechanics of introspection and inquiry, and the frameworks through which SpellBook operates.
 
