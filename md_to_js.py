@@ -42,10 +42,14 @@ def scan_directory(directory, collection):
 
 # this object will collect all markdown files in this repository
 markdowns = {}
+markdowns['app'] = {}
+markdowns['app']['changelog'] = {}
 
 # read directories
 scan_directory('./777/elements', markdowns)
 scan_directory('./777/planets', markdowns)
+scan_directory('./777/app', markdowns['app']) # add
+scan_directory('./777/app/changelog', markdowns['app']['changelog']) # add
 
 # dump markdowns to javascript
 js_dump = json.dumps(markdowns, indent=4)
