@@ -14,16 +14,21 @@ In the meantime, many suggested bugs and issues have been addressed and fixed:
   - Later on it's here where you'll be setting your automatic and encrypted backups to cloud services
 
 - UX Improvements:
-  - Images can now be shared or saved to gallery
-  - An 'infinite' amount of images can now be added to things and their subthings. When editting or adding images, they're not overwritten, but added.
-  - Images can now be ordered and sorted in things and subthings. Missing images will be indicated as such.
-  - App and things load quicker, scroll performance improved significanetly in feeds.
-  - Fixed weird scrolling behavior on android when things got too long, especially noticable when editting things.
-  - SpellBook now has tons of mini-animation to make the experience smooth and cozy
-  - Image picker ensures that chosen filenames are compressed and downsizes, which helps with the performance in the app and your storage usage.
-  - Added accessible edit buttons things and subthings
-  - Text fields now supports markdown syntax. Use single stars * to put things into *italics*, or double stars ** to make things **fat**. Markdown links, images, tables, and code fences are also supported, though no UX is implemented to make this obvious to the user. For the experienced user, this is a no-brainer.
-  - When editting subthings very deeply (like sub-sub-sub-sub-sub-sub-subthings), the available content space which became very small and narrow, is now automatically extended to 80% of the screen, to ensure gracious input into SpellBook.
-  - 
+  - Images:
+    - Images can now be shared or saved to gallery.
+    - An 'infinite' amount of images can now be added to things and their subthings. When editting or adding images, they're not overwritten, but added.
+    - Images can now be ordered and sorted in things and subthings. Missing images will be indicated as such.
+    - Image picker ensures that chosen filenames are compressed and downsizes, which helps with the performance in the app and your storage usage.
+  - App:
+    - App and things load quicker, scroll performance improved significanetly in feeds.
+    - Fixed weird scrolling behavior on android when things got too long, especially noticable when editting things.
+    - SpellBook now has tons of mini-animation to make the experience smooth and cozy
+  - Content Management:
+    - Added Markdown support! text fields now supports markdown syntax. Use single stars * to put things into *italics*, or double stars ** to make things **fat**. Markdown links, images, tables, and code fences are also supported.
+    - Added accessible *edit* buttons things and subthings
+    - When editting subthings very deeply (like sub-sub-sub-sub-sub-sub-subthings), the available content entry space now expands to ensure at least 80% screen coverage screen, to ensure gracious input into SpellBook.
+    - Fixed navigational issues
+  
+
 
 
