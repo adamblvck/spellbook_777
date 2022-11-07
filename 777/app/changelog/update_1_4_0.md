@@ -1,4 +1,4 @@
-## 1.3.1 Usability & Performance (3 Nov 2022)
+## 1.4.0 Major UX Update (3 Nov 2022)
 
 SpellBook is currently pivoting towards an open source model, allowing you to personally inspect and contribute to the project. The open sourcing pivot will allow you to experience truly private and fully encrypted **auto backups** your data to cloud platforms. Though this update contains code base allowing for such capabilities, creation of wallets, and syncing with cloud providers, *they have not been enabled yet* to ensure compliance with App Store & Google Play Store requirements, until of course the app will go public. This will enabled as soon as the pivot to open source has happened in November.
 
