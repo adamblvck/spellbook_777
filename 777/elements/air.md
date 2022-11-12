@@ -69,4 +69,4 @@ The three cycles are held together by the four (macroscopic and non-cyclic) ther
 
 ## Feedback
 
-Feedback, suggestions, or questions? Send an email to [ADAM BLVCK](mailto:contact@adamblvck.com).
+Feedback, suggestions, or questions? Send an email to [> ADAM BLVCK <](mailto:contact@adamblvck.com).
